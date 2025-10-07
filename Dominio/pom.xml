@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>diafestivo</groupId>
+		<artifactId>api</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>dominio</artifactId>
+    <packaging>jar</packaging>
+</project>
