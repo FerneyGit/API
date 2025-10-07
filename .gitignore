@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7424d3af612f8446a62137ce0c3b0aa659063975
 # Compiled class file
 *.class
 
@@ -23,6 +26,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 =======
 HELP.md
 target/
@@ -58,3 +62,5 @@ build/
 ### VS Code ###
 .vscode/
 >>>>>>> d64a9cc (Mensaje claro del cambio)
+=======
+>>>>>>> 7424d3af612f8446a62137ce0c3b0aa659063975
